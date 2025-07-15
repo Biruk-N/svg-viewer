@@ -24,8 +24,8 @@ export const Route = createRootRoute({
       },
       ...seo({
         title:
-          'TanStack Start | Type-Safe, Client-First, Full-Stack React Framework',
-        description: `TanStack Start is a type-safe, client-first, full-stack React framework. `,
+          'Svg Viewer',
+        description: `Upload an svg file to view the svg content`,
       }),
     ],
     links: [
